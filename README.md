@@ -11,7 +11,6 @@ Reactive API Gateway built with Spring Cloud Gateway. It provides the single ing
 | Slack Handle | [YOUR SLACK HANDLE - OPTIONAL] |
 | GCP Project ID | `[YOUR GCP PROJECT ID]` |
 
-> Replace the Student Number and GCP Project ID placeholders with the exact values used for the submission.
 
 ## Project Description
 
