@@ -8,8 +8,8 @@ Reactive API Gateway built with Spring Cloud Gateway. It provides the single ing
 |---|---|
 | Student Name | Matheesha Abiman |
 | Student Number | 241722050 |
-| Slack Handle | [YOUR SLACK HANDLE - OPTIONAL] |
-| GCP Project ID | `[YOUR GCP PROJECT ID]` |
+| Slack Handle | Matheesha Abiman |
+| GCP Project ID | medicare-healthsync-project |
 
 
 ## Project Description
